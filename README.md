@@ -1,8 +1,6 @@
 # 👋 Hi, I'm Chandra Vardhan Reddy
 
 🚀 **DevOps / Cloud / Site Reliability Engineer**
-🎓 Master's in **Computer Systems Analysis**
-📍 United States
 
 ---
 
